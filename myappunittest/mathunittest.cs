@@ -58,6 +58,9 @@ namespace myappunittest
            // Assert.IsTrue(vm.res == 24, " should be vm.res==24");
            Assert.AreEqual(24,vm.res, "should be vm.res==24");
 
+            //abeterwaytodoit
+
+
         }
 
 
